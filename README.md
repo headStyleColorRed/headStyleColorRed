@@ -7,6 +7,13 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [Rodrigo on Medium](https://medium.com/@rodrigopple) or <a rel="me" href="https://www.linkedin.com/in/rodrigolabrador/">Linkedin</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
+<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="github" src="https://img.shields.io/badge/TangerineCoder-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -20,9 +27,3 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-
-
-<img align="left" alt="Eresh's GitHub Stats" src="https://<--Your vercel instance for stats-->/api?username=ereshzealous&show_icons=true&hide_border=true" />
