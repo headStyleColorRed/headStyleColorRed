@@ -8,11 +8,13 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :dog:s
 
 You can contact me through:
+
+
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img align="left" alt="TangerineCoder" src="https://img.shields.io/badge/TangerineCoder-330F63?style=for-the-badge&logoColor=white" />
 
-
+My knowledge stack:
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
