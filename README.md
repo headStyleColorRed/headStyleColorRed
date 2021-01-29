@@ -15,6 +15,14 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift)&nbsp;
+![JavaScript](https://img.shields.io/badge/-xcode-05122A?style=flat&logo=xcode)&nbsp;
+![JavaScript](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon)&nbsp;
+![JavaScript](https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express)&nbsp;
+![JavaScript](https://img.shields.io/badge/-solidity-05122A?style=flat&logo=ethereum)&nbsp;
+![JavaScript](https://img.shields.io/badge/-vapor-05122A?style=flat&logo=swift)&nbsp;
+![JavaScript](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
