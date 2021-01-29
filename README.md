@@ -11,6 +11,7 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 - 📫 You can send me an <a href="mailto:headstylecolorred@gmail.com">Email</a> and I'll try to respond as soon as I can.
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,6 +39,7 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 ![Node.js](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
 ![CSS](https://img.shields.io/badge/-Github%20CI-05122A?style=flat&logo=github%20actions)&nbsp;
 ![Git](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![Git](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
