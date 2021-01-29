@@ -4,13 +4,13 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 #### 👨🏻‍💻 &nbsp;About Me
 - :construction_worker: At the moment I'm working on some iOS development
 
-- 🔭 Currently I'm learning about networks, algorigthms, game dev and much more at <a href="https://www.42madrid.com/" ><code><img height="18" src="https://raw.githubusercontent.com/headstylecolorred/headstylecolorred/master/assets/42.png"></code></a>:point_left:
+- 🔭 Currently I'm learning about networks, algorithms, game dev and much more at <a href="https://www.42madrid.com/" ><img height="18" src="https://raw.githubusercontent.com/headstylecolorred/headstylecolorred/master/assets/42.png"></a> :point_left:
 
 - :mahjong: If you want to see some published projects or know more about me go to my [website.](https://tangerinecoding.es) 
  
 - 📫 You can send me an <a href="mailto:headstylecolorred@gmail.com">Email</a> and I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
