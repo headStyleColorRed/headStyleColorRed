@@ -15,30 +15,29 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift)&nbsp;
-![JavaScript](https://img.shields.io/badge/-xcode-05122A?style=flat&logo=xcode)&nbsp;
-![JavaScript](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
-![JavaScript](https://img.shields.io/badge/-aws-05122A?style=flat&logo=amazon)&nbsp;
-![JavaScript](https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express)&nbsp;
-![JavaScript](https://img.shields.io/badge/-solidity-05122A?style=flat&logo=ethereum)&nbsp;
-![JavaScript](https://img.shields.io/badge/-vapor-05122A?style=flat&logo=swift)&nbsp;
-![JavaScript](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Aws-05122A?style=flat&logo=amazon)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=ethereum)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Vapor-05122A?style=flat&logo=swift)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=linux)&nbsp;
+![GitHub](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
+![Markdown](https://img.shields.io/badge/-Sockets-05122A?style=flat&logo=webrtc)
+![Node.js](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
+![CSS](https://img.shields.io/badge/-Github%20CI-05122A?style=flat&logo=github%20actions)&nbsp;
+![Git](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
