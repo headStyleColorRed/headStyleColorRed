@@ -35,11 +35,12 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=headstylecolorred&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=headstylecolorred&layout=compact&langs_count=8&theme=algolia"/>
-
-</p>
+<a>
+    <p align="center">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=headstylecolorred&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=headstylecolorred&layout=compact&langs_count=8&theme=algolia"/>
+    </p>
+</a>
 
 You can contact me through:
 
