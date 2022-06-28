@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.tangerinecoding.es/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there
 Welcome to my tech-cave, the place where I keep all my projects and try to opensource a bit :blush:
 
 #### 👨🏻‍💻 &nbsp;About Me
