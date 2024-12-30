@@ -4,7 +4,7 @@ Welcome to my tech-cave, the place where I keep all my projects and try to opens
 #### 👨🏻‍💻 &nbsp;About Me
 - :construction_worker: At the moment I'm working on some iOS development
 
-- 🔭 Currently I'm learning about networks, algorithms, game dev and much more at <a href="https://www.42madrid.com/" ><img height="18" src="https://raw.githubusercontent.com/headstylecolorred/headstylecolorred/master/assets/42.png"></a> :point_left:
+- 🔭 Currently I'm learning about ruby, AI Agents, file formats and much more :point_up:
 
 - :mahjong: If you want to see some published projects or know more about me go to my [website.](https://tangerinecoding.es) 
  
